@@ -8,7 +8,7 @@
 -----------------------
 - A IDE escolhida foi o [`VS Code`](https://code.visualstudio.com/download);
 - Instale o [`Node.js`](https://nodejs.org/en/download/);
-- Instale o [PostgreSQL`](https://www.postgresql.org/download/) 
+- Instale o [`PostgreSQL`](https://www.postgresql.org/download/) 
 - Siga as instruções da documentação do [`Cypress.io`](https://github.com/cypress-io/cypress) e do [`cypress-cucumber-preprocessor`](https://github.com/badeball/cypress-cucumber-preprocessor);
 - Baixe este repositório ou faça um git clone;
 - Abra o diretório do projeto e execute o comando:
