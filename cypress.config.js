@@ -1,6 +1,5 @@
 const { defineConfig } = require("cypress");
 const { Client } = require("pg");
-//import { Client } from 'pg';
 
 const createBundler = require("@bahmutov/cypress-esbuild-preprocessor");
 const addCucumberPreprocessorPlugin = require("@badeball/cypress-cucumber-preprocessor").addCucumberPreprocessorPlugin;
