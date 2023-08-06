@@ -18,5 +18,4 @@
     - Para maiores detalhes, consutar: [`json-formatter`](https://github.com/cucumber/json-formatter) 
 - Pronto, o projeto será executado em sua máquina e construirá o relatório com os resultados dos teste. 😄
 
-![msg265776317-122542](https://github.com/adelitofarias/cypressPostgreSQL/assets/19351435/163bf297-6848-4216-9c8b-37d061e36814)
-
+![photo1691341247](https://github.com/adelitofarias/cypressPostgreSQL/assets/19351435/750e7f50-c27e-4a78-b626-911450bbf56b)
