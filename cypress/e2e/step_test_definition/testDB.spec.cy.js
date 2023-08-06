@@ -13,8 +13,8 @@ Given('que realize a insercao de uma cliente', () => {
 When('executar a consulta, o retorno devera ser igual a {string}', (cliente) => {
 
   cy.task("connectDBPostgreSQL", `Select * From pedidos  Where cliente = '${cliente}' `).then((response) => {
-    cy.log(response)
-    cy.log(`Nome cliente: ${response[0].cliente}`)
+
+    cy.log(`O nome do cliente eh: ${response[0].cliente}`)
 
     expect(response[0].pedido).to.equal(4)
 
